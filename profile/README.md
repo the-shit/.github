@@ -1,26 +1,28 @@
 # THE SHIT
 
-**Scaling Humans Into Tomorrow**
+**Developer tools that don't suck.**
 
-Autonomous agent swarms that ship code while you sleep.
+We build autonomous agent infrastructure that ships production code. No hand-holding, no babysitting, no bullshit.
 
-## The Stack
+## What We Build
 
-| Layer | Purpose |
-|-------|---------|
-| [chat](https://github.com/the-shit/chat) | Human orchestration layer |
-| [agents](https://github.com/the-shit/agents) | Laravel Zero agent CLI |
-| [conduit](https://github.com/conduit-ui) | Agent verbs for GitHub |
+**[Conduit](https://github.com/conduit-ui)** - GitHub automation suite for AI agents
+Composable PHP packages that give agents GitHub superpowers. Create issues, manage PRs, trigger workflows, review code.
+
+**[Agents](https://github.com/the-shit/agents)** - Laravel Zero CLI for autonomous development
+Ship-agents GitHub App interface. Point it at a repo, watch it work.
+
+**[Chat](https://github.com/the-shit/chat)** - Multi-model orchestration layer
+Human-in-the-loop command center. Laravel 12 + Inertia + Vue 3.
 
 ## Philosophy
 
-**Joe Justice Principles:**
-- Swarm methodology - parallel agents attack problems
-- Mob programming for AI - architect, implement, test, review
-- Humans as orchestrators - strategic guidance, not line-by-line coding
-- Bad PR > No PR - ship fast, iterate faster
+**Swarm methodology** - Parallel agents attack problems from multiple angles
+**Mob programming for AI** - Architect, implement, test, review in parallel
+**Humans orchestrate** - Strategic guidance, not line-by-line coding
+**Bad PR > No PR** - Ship fast, iterate faster
 
-**Musk's Algorithm:**
+We follow Musk's Algorithm:
 1. Question the requirement
 2. Delete unnecessary complexity
 3. Simplify
@@ -29,7 +31,17 @@ Autonomous agent swarms that ship code while you sleep.
 
 ## The Vision
 
-Issues are suggestions. Commits are attempts. PRs are proposals. Humans curate.
+Issues are suggestions. Commits are attempts. PRs are proposals.
+**Humans curate. Agents execute.**
+
+## Join the Swarm
+
+- Open issues on any repo
+- Ship PRs (yes, even bad ones)
+- Build packages for the Conduit ecosystem
+- Run autonomous agents in production
+
+Enterprise support: jordan.l.partridge@gmail.com
 
 ---
 

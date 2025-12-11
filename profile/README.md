@@ -41,7 +41,7 @@ Issues are suggestions. Commits are attempts. PRs are proposals.
 - Build packages for the Conduit ecosystem
 - Run autonomous agents in production
 
-Enterprise support: jordan.l.partridge@gmail.com
+Enterprise support: jordan@partridge.rocks
 
 ---
 
